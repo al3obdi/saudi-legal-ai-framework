@@ -19,7 +19,7 @@
 - **Council of Ministers Decision / قرار مجلس الوزراء:** No. 628 dated 06/11/1440H (قرار رقم 628 وتاريخ 06/11/1440هـ)
 - **Publication in Umm Al-Qura / النشر في أم القرى:** 21/11/1440H corresponding to 24/07/2019
 - **Status / الحالة:** In force / ساري
-- **Official source (Bureau of Experts) / المصدر الرسمي (هيئة الخبراء بمجلس الوزراء):** https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/360de590-0286-4fa5-a243-aa9100c31979/1
+- **Official online text reference (Bureau of Experts) / المرجع النصي الرسمي عبر الإنترنت (هيئة الخبراء بمجلس الوزراء):** https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/360de590-0286-4fa5-a243-aa9100c31979/1
 - **Document status / حالة هذا الملف:** Draft educational / reference summary — مسودة ملخص تعليمي / مرجعي
 
 > **BOE re-verification note / ملاحظة إعادة التحقق من هيئة الخبراء:**
@@ -224,6 +224,8 @@ The **Ministry of Commerce / وزارة التجارة** maintains an E-Commerce
   - Compliance checklist for e-stores (قائمة الامتثال للمتاجر الإلكترونية)
   - Consumer-facing guidance (including cybersecurity guidance for consumers and service providers)
 
+The Ministry of Commerce E-Commerce Center is useful for workflow design because it links practical materials such as the implementing regulation, e-store guidance, compliance checklist, and consumer-facing guidance. These materials should be treated as supporting guidance, not as a substitute for the official legal text.
+
 > **Important / مهم:**
 > Ministry of Commerce guidance is **supporting material only** and **is not a substitute for the official legal text**. The Ministry of Commerce is **not** the issuing authority of the Law (the Law is issued by Royal Decree). For binding legal text and article numbers, use BOE / Umm Al-Qura.
 >
@@ -249,9 +251,15 @@ This file should not be promoted from draft status until all unverified article 
 **Arabic:**
 لا ينبغي ترقية هذا الملف من حالة المسودة حتى تُحل جميع إحالات المواد غير المتحققة أو تُترك عمدًا ضمن قائمة تحقق مستقلة.
 
-### Verified in this revision pass
+### Verified / source-backed metadata
 
-- *(None in this revision pass.)* BOE was not reachable from the editing environment, so no article number was pulled directly from BOE during this pass.
+- Basic law metadata is source-backed by the BOE record: law name, Royal Decree No. M/126, Hijri issue date 07/11/1440H, Gregorian issue date 10/07/2019, and publication date 21/11/1440H.
+- Article-level mappings remain TO VERIFY because the official Arabic article text was not pulled during this revision pass.
+
+### بيانات أساسية مدعومة بالمصدر
+
+- البيانات الأساسية للنظام مدعومة بسجل هيئة الخبراء: اسم النظام، المرسوم الملكي رقم (م/126)، تاريخ الإصدار 07/11/1440هـ، التاريخ الميلادي 10/07/2019م، وتاريخ النشر 21/11/1440هـ.
+- تبقى إحالات المواد التفصيلية TO VERIFY لأن نص المواد العربي لم يُسحب خلال هذه المراجعة.
 
 ### Metadata status
 
@@ -305,7 +313,7 @@ Each example shows a **bad answer**, **why it is wrong**, and a **better, non-ad
 
 - **Bad answer:** "Customer phone numbers and addresses are just e-commerce data; PDPL doesn't apply."
 - **Why it is wrong:** Names, phone numbers, addresses, and data that identifies or can identify a customer — including order history or payment references where linked to an identifiable person — may constitute personal data under PDPL. The E-Commerce Law does not displace PDPL.
-- **Better answer:** "Customer phone numbers and addresses are personal data. PDPL applies in parallel with the E-Commerce Law and must be analyzed under its own framework — including lawful basis, notice/transparency, retention, and cross-border transfer considerations."
+- **Better answer:** "Customer phone numbers, addresses, order history, and payment references may constitute personal data where they identify or can identify a customer. PDPL may apply in parallel with the E-Commerce Law and should be analyzed under its own framework — including lawful basis, notice/transparency, retention, and cross-border transfer considerations."
 
 ### Example 6 — "Selling through social-media DMs is outside any e-commerce rules."
 
@@ -315,6 +323,6 @@ Each example shows a **bad answer**, **why it is wrong**, and a **better, non-ad
 
 ---
 
-> **تحذير:** هذا تحليل أولي بمساعدة الذكاء الاصطناعي ولا يُعدّ استشارة قانونية. يجب مراجعة مختص قانوني مرخّص في المملكة العربية السعودية قبل اتخاذ أي إجراء.
+> **Warning:** This file is an educational/reference draft only. It does not constitute legal advice. The official Arabic text and applicable regulations should be reviewed before making compliance, contracting, or litigation decisions.
 >
-> **Warning:** This is a preliminary AI-assisted analysis and does not constitute legal advice. A licensed legal professional in the Kingdom of Saudi Arabia must be consulted before taking any action.
+> **تحذير:** هذا الملف مسودة تعليمية/مرجعية فقط، ولا يُعدّ استشارة قانونية. يجب مراجعة النص العربي الرسمي واللوائح ذات الصلة قبل اتخاذ أي قرار يتعلق بالامتثال أو التعاقد أو التقاضي.
