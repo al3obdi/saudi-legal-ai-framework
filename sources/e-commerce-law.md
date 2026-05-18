@@ -1,11 +1,11 @@
 # Saudi E-Commerce Law / نظام التجارة الإلكترونية
 
-> **DRAFT — Educational / Reference File**
-> **مسودة — ملف تعليمي / مرجعي**
+> **DRAFT — Article-Mapping Verification Pending**
+> **مسودة — قيد التحقق من إحالات المواد**
 >
-> This file is a draft. It is intended for educational and structural reference only. Article-level mappings are **not yet verified** against the official Arabic text and are marked accordingly. Do not rely on this file alone for any compliance, contracting, or litigation decision.
+> This file is a draft. It is intended for educational and structural reference only. Article-level mappings shown in the "Indicative Mapping" column are contributor recall and are **not verified** against the official Arabic text — they require human verification against BOE and the Implementing Regulation before any row is promoted to the "Verified Article" column. Do not rely on this file alone for any compliance, contracting, or litigation decision.
 >
-> هذا الملف مسودة. الغرض منه التعليم وتنظيم العمل المرجعي فقط. لم يتم التحقق بعد من إحالات المواد مقابل النص العربي الرسمي، وقد تم وسمها وفقًا لذلك. لا ينبغي الاعتماد على هذا الملف وحده لاتخاذ أي قرار يتعلق بالامتثال أو التعاقد أو التقاضي.
+> هذا الملف مسودة. الغرض منه التعليم وتنظيم العمل المرجعي فقط. إحالات المواد الواردة في عمود "إحالة مقترحة" تستند إلى ذاكرة المساهم وهي **غير متحققة** من النص العربي الرسمي، وتتطلب تدقيقًا بشريًا مقابل هيئة الخبراء واللائحة التنفيذية قبل ترقية أي صف إلى عمود "المادة المتحقَّق منها". لا ينبغي الاعتماد على هذا الملف وحده لاتخاذ أي قرار يتعلق بالامتثال أو التعاقد أو التقاضي.
 
 ---
 
@@ -20,12 +20,12 @@
 - **Publication in Umm Al-Qura / النشر في أم القرى:** 21/11/1440H corresponding to 24/07/2019 — source-backed; issue number TO VERIFY from uqn.gov.sa
 - **Status / الحالة:** In force / ساري
 - **Official online text reference (Bureau of Experts) / المرجع النصي الرسمي عبر الإنترنت (هيئة الخبراء بمجلس الوزراء):** https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/360de590-0286-4fa5-a243-aa9100c31979/1
-- **Document status / حالة هذا الملف:** Draft educational / reference summary — مسودة ملخص تعليمي / مرجعي
+- **Document status / حالة هذا الملف:** Draft — article-mapping verification pending / مسودة — قيد التحقق من إحالات المواد
 
 > **Metadata source note / ملاحظة بشأن مصدر البيانات:**
-> The basic metadata above is based on the BOE law record linked in this file. This draft does not claim article-level verification — article mappings remain TO VERIFY. Before promotion from draft status, metadata and article mappings should be reconfirmed against BOE / Umm Al-Qura.
+> The basic metadata above is based on the BOE law record linked in this file. This draft does not claim article-level verification — article mappings are indicative and pending human review. Before promotion from draft status, metadata and article mappings should be reconfirmed against BOE / Umm Al-Qura.
 >
-> تستند البيانات الأساسية أعلاه إلى سجل النظام في موقع هيئة الخبراء المرفق في هذا الملف. لا تدّعي هذه المسودة التحقق من إحالات المواد مادةً مادة — تبقى إحالات المواد TO VERIFY. قبل ترقية الملف من حالة المسودة، ينبغي إعادة التحقق من البيانات والإحالات من هيئة الخبراء/أم القرى.
+> تستند البيانات الأساسية أعلاه إلى سجل النظام في موقع هيئة الخبراء المرفق في هذا الملف. لا تدّعي هذه المسودة التحقق من إحالات المواد مادةً مادة — إحالات المواد مقترحة وقيد التدقيق البشري. قبل ترقية الملف من حالة المسودة، ينبغي إعادة التحقق من البيانات والإحالات من هيئة الخبراء/أم القرى.
 
 > **Disclaimer / إخلاء مسؤولية:**
 > This file is an educational/reference summary intended to help structure Saudi e-commerce legal workflows. It is **not legal advice** and should not be used as a substitute for reviewing the official Arabic text or consulting a qualified Saudi lawyer.
@@ -87,7 +87,7 @@ The implementing regulation should be reviewed alongside the Law before making w
 ## Key concepts / المفاهيم الأساسية
 
 > **Note on article references in this section:**
-> The concepts below are described at a general educational level. **No article numbers are asserted in this section.** Specific article-level mapping is consolidated in the *Important article mapping scaffold* table further below, where rows are marked either *Verified from BOE* or *TO VERIFY*. Always read the official Arabic text for binding wording.
+> The concepts below are described at a general educational level. **No article numbers are asserted in this section.** Specific article-level mapping is consolidated in the *Important article mapping scaffold* table further below, where rows show an indicative mapping (unverified) and a separate verified-article column reserved for human review. Always read the official Arabic text for binding wording.
 
 ### 1. E-commerce service provider / merchant — مقدّم خدمة التجارة الإلكترونية / التاجر
 
@@ -154,25 +154,28 @@ Mention carefully and only at a general educational level:
 
 ## Important article mapping scaffold / هيكل أولي لإحالات المواد المهمة
 
-> **This section is a mapping scaffold, not an article-level reference yet. Article numbers should be added only after direct review of the official Arabic text.**
+> **This section is a mapping scaffold, not an article-level reference yet. Article numbers should be added to the "Verified Article" column only after direct review of the official Arabic text on BOE and the Implementing Regulation.**
 >
-> **هذا القسم هيكل أولي للإحالات، وليس مرجعًا نهائيًا لأرقام المواد في هذه المرحلة. لا تُضاف أرقام المواد إلا بعد مراجعة مباشرة للنص العربي الرسمي.**
+> **هذا القسم هيكل أولي للإحالات، وليس مرجعًا نهائيًا لأرقام المواد في هذه المرحلة. لا تُضاف أرقام المواد إلى عمود "المادة المتحقَّق منها" إلا بعد مراجعة مباشرة للنص العربي الرسمي في موقع هيئة الخبراء واللائحة التنفيذية.**
+
+> **About the "Indicative Mapping" column / حول عمود "إحالة مقترحة":**
+> Entries in the "Indicative Mapping" column are contributor recall meant as **starting points for human verification only**. They are wrapped in tildes and brackets (for example `[~Art. 5 / ~المادة 5]`) to make clear they are **not** verified against the official Arabic text. Some are given as ranges or as "Law vs Implementing Regulation" placeholders where recall is uncertain. A reviewer should confirm or correct each entry against BOE and the Implementing Regulation before moving any value into the "Verified Article" column.
 >
-> Rows will be marked *Verified from BOE* only after direct verification against the official Arabic text. As of this draft, all article mappings remain *TO VERIFY*. **No article numbers are invented.**
+> القيم الواردة في عمود "إحالة مقترحة" هي تذكر تقريبي من المساهم يُقصد به أن يكون **نقطة بداية للتدقيق البشري فقط**. وُضعت بين أقواس مع علامة (~) لإيضاح أنها **غير متحققة** من النص العربي الرسمي. وقد تظهر بعض الإحالات كنطاق أو كإشارة بين "النظام" و"اللائحة التنفيذية" حين تكون الذاكرة غير محسومة. على المراجع أن يتحقق أو يصحح كل قيمة مقابل هيئة الخبراء واللائحة التنفيذية قبل نقل أي قيمة إلى عمود "المادة المتحقَّق منها".
 
-| Topic / الموضوع | Article / range — المادة | Arabic note / ملاحظة | English note | Verification status |
-|------|------|------|------|------|
-| Definitions / التعريفات | — | يجب القراءة من النص الرسمي | Read directly from the official Arabic text. | TO VERIFY |
-| Scope of application / نطاق تطبيق النظام | — | لم يُتحقق من رقم المادة في هذه المراجعة | Article number not yet pulled from BOE. | TO VERIFY |
-| Provider / practitioner disclosure obligations / التزامات مقدّم الخدمة (الإفصاح) | — | لم يُتحقق من رقم المادة في هذه المراجعة | Disclosure-related provisions present in the Law and the implementing regulation; exact article(s) not yet pulled. | TO VERIFY |
-| E-commerce contract data / بيانات العقد الإلكتروني | — | لم يُتحقق من رقم المادة في هذه المراجعة | Contract-data provisions present; exact article not yet pulled. | TO VERIFY |
-| Electronic advertising / الإعلان الإلكتروني | — | لم يُتحقق من رقم المادة في هذه المراجعة | Advertising-related provisions present; exact article not yet pulled. | TO VERIFY |
-| Personal-data / privacy provision inside the E-Commerce Law (if present) / حكم متعلق بالبيانات الشخصية داخل النظام (إن وُجد) | — | يُتحقق من وجوده ضمن النظام نفسه | PDPL still applies separately regardless of any internal reference. | TO VERIFY |
-| Consumer cancellation / return right (if present) / حق الإلغاء/الاسترجاع للمستهلك (إن وُجد) | — | يُتحقق من ورودها في النص | Existence and scope to be confirmed against the official text. | TO VERIFY |
-| Penalties / العقوبات | — | لم يُتحقق من رقم المادة في هذه المراجعة | Do not exaggerate penalties; read official wording. | TO VERIFY |
-| Implementing regulation reference / الإحالة إلى اللائحة التنفيذية | — | يُتحقق من نص الإحالة | Implementing regulation exists and is published by the Ministry of Commerce; in-Law cross-reference still to be pulled. | TO VERIFY |
+| Topic / الموضوع | Indicative Mapping (unverified) / إحالة مقترحة (غير متحققة) | Verified Article / المادة المتحقَّق منها | Arabic note / ملاحظة | English note | Verification status |
+|------|------|------|------|------|------|
+| Definitions / التعريفات | `[~Art. 1 / ~المادة 1]` | — | يلزم التحقق من قائمة المصطلحات (مقدّم الخدمة، المستهلك، المتجر الإلكتروني، الإعلان الإلكتروني) ومطابقتها للنص الرسمي. | Verify the list of defined terms (provider, consumer, electronic store, electronic advertising) against the official Arabic text. | PENDING HUMAN REVIEW / قيد التدقيق |
+| Scope of application / نطاق تطبيق النظام | `[~Art. 2 / ~المادة 2]` | — | يلزم التحقق من النطاق الموضوعي والشخصي والمكاني، وأي استثناءات. | Verify subject-matter, personal, and territorial scope; check for any carve-outs. | PENDING HUMAN REVIEW / قيد التدقيق |
+| Provider / practitioner disclosure obligations / التزامات مقدّم الخدمة (الإفصاح) | `[~Art. 5 (Law) — to confirm; cross-check with Implementing Regulation / ~المادة 5 (النظام) — للتحقق؛ مع التقاطع مع اللائحة التنفيذية]` | — | يلزم التحقق من القائمة الكاملة للبيانات الواجب الإفصاح عنها (الهوية، العنوان، السجل التجاري، وسيلة التواصل) والتقاطع مع اللائحة التنفيذية. | Verify the complete list of required disclosures (identity, address, commercial registration, contact channel) and cross-check with the Implementing Regulation. | PENDING HUMAN REVIEW / قيد التدقيق |
+| E-commerce contract data / بيانات العقد الإلكتروني | `[~Art. 6–7 (Law) — to confirm; details often in Implementing Regulation / ~المادة 6–7 (النظام) — للتحقق؛ التفاصيل غالبًا في اللائحة التنفيذية]` | — | يلزم التحقق من البيانات الإلزامية للعقد الإلكتروني (الشروط، السعر، التسليم، الدفع، الإيصال، الإثبات). | Verify mandatory e-commerce contract data fields (terms, price, delivery, payment, receipt, evidence). | PENDING HUMAN REVIEW / قيد التدقيق |
+| Electronic advertising / الإعلان الإلكتروني | `[~Art. 8 (Law) — to confirm; cross-check with Implementing Regulation / ~المادة 8 (النظام) — للتحقق؛ مع التقاطع مع اللائحة التنفيذية]` | — | يلزم التحقق من اشتراطات الإعلان الإلكتروني (إبراز الهوية التجارية، صحة الادعاءات، شفافية العروض، الالتزام بعدم التضليل). | Verify electronic-advertising requirements (commercial identity, accuracy of claims, transparency of offers, no-misleading rule). | PENDING HUMAN REVIEW / قيد التدقيق |
+| Personal-data / privacy provision inside the E-Commerce Law (if present) / حكم متعلق بالبيانات الشخصية داخل النظام (إن وُجد) | `[~Art. 5 or Art. 12 — to confirm presence and scope; note PDPL applies separately / ~المادة 5 أو 12 — للتحقق من وجوده ونطاقه؛ مع ملاحظة أن نظام حماية البيانات الشخصية يطبق بصورة مستقلة]` | — | يلزم التحقق من وجود ونطاق أي حكم داخلي يتعلق بحماية بيانات المستهلك ضمن النظام نفسه، مع ملاحظة أن نظام حماية البيانات الشخصية (PDPL) يطبق بصورة مستقلة بصرف النظر عن أي حكم داخلي. | Verify the existence and scope of any internal provision on consumer-data protection within the Law itself; note that PDPL applies independently regardless of any internal provision. | PENDING HUMAN REVIEW / قيد التدقيق |
+| Consumer cancellation / return right (if present) / حق الإلغاء/الاسترجاع للمستهلك (إن وُجد) | `[~Mostly in Implementing Regulation; Law article uncertain — to confirm / ~غالبًا في اللائحة التنفيذية؛ مادة النظام غير محسومة — للتحقق]` | — | يلزم التحقق ممّا إذا كان حق الإلغاء/الاسترجاع وارد في النظام أم في اللائحة التنفيذية، ومدّته وشروطه وحالاته. | Verify whether the cancellation/return right sits in the Law or the Implementing Regulation; check duration, conditions, and exceptions. | PENDING HUMAN REVIEW / قيد التدقيق |
+| Penalties / العقوبات | `[~Art. 22–25 range (Law) — to confirm / ~المواد 22–25 تقريبًا (النظام) — للتحقق]` | — | يلزم التحقق من سقوف الغرامات، وحالات تكرار المخالفة، والتدرج في العقوبات، وأي عقوبات تكميلية. | Verify maximum fines, repeat-offense rules, graduation of penalties, and any ancillary sanctions. | PENDING HUMAN REVIEW / قيد التدقيق |
+| Implementing regulation reference / الإحالة إلى اللائحة التنفيذية | `[~Late article of the Law (e.g. Art. 25–27) — to confirm / ~مادة متأخرة من النظام (مثل 25–27) — للتحقق]` | — | يلزم التحقق من المادة التي تحيل إلى إصدار اللائحة التنفيذية ومدة إصدارها وجهة إصدارها. | Verify the article that references the issuance of the Implementing Regulation, its issuance deadline, and the issuing body. | PENDING HUMAN REVIEW / قيد التدقيق |
 
-These are **currently mapped topics for review**, **not** verified article references.
+These are **indicative mapping topics**, **not** verified article references. The "Verified Article" column is reserved for the reviewer.
 
 ---
 
@@ -244,49 +247,43 @@ The Ministry of Commerce E-Commerce Center is an official government supporting 
 ## Draft status / verification notes / حالة المسودة / ملاحظات التحقق
 
 - This file is **intentionally a draft**.
-- It should **not** be promoted from draft status until unverified article mappings are resolved or are intentionally retained in a separate verification checklist.
+- It should **not** be promoted from draft status until indicative article mappings have been confirmed (or corrected) against the official Arabic text and moved into the "Verified Article" column, or intentionally retained in a separate verification checklist.
 
 ### Draft PR suitability / صلاحية المسودة للمراجعة الأولية
 
-This draft is suitable for early maintainer review because it separates source-backed metadata from unverified article mappings, avoids guessed article numbers, and identifies the legal workflow areas that require further verification.
+This draft is suitable for early maintainer review because it separates source-backed metadata from unverified article mappings, avoids guessed article numbers in the verified column, exposes contributor recall in an explicit "Indicative Mapping" column so reviewers can quickly confirm or correct each entry, and identifies the legal workflow areas that require further verification.
 
-تصلح هذه المسودة للمراجعة الأولية من المشرفين لأنها تفصل بين البيانات الأساسية المدعومة بالمصدر وإحالات المواد غير المتحققة، وتتجنب تخمين أرقام المواد، وتحدد مسارات العمل القانونية التي تحتاج إلى تحقق لاحق.
-
-**English:**
-This file should not be promoted from draft status until all unverified article mappings are resolved or intentionally retained in a separate verification checklist.
-
-**Arabic:**
-لا ينبغي ترقية هذا الملف من حالة المسودة حتى تُحل جميع إحالات المواد غير المتحققة أو تُترك عمدًا ضمن قائمة تحقق مستقلة.
+تصلح هذه المسودة للمراجعة الأولية من المشرفين لأنها تفصل بين البيانات الأساسية المدعومة بالمصدر وإحالات المواد غير المتحققة، وتتجنب تخمين أرقام المواد في العمود المتحقَّق منه، وتُظهر تذكر المساهم في عمود مستقل بعنوان "إحالة مقترحة" حتى يتمكن المراجعون من التأكيد أو التصحيح بسرعة، وتحدد مسارات العمل القانونية التي تحتاج إلى تحقق لاحق.
 
 ### Source-backed metadata
 
 - The basic law metadata is based on the BOE law record linked in this file: law name, Royal Decree No. M/126, Hijri issue date 07/11/1440H, Gregorian issue date 10/07/2019, and publication date 21/11/1440H.
-- This draft does not claim article-level verification. Article mappings remain TO VERIFY because the official Arabic article text was not reviewed article-by-article in this pass.
+- This draft does not claim article-level verification. The "Indicative Mapping" column is contributor recall; the "Verified Article" column is reserved for the reviewer.
 - Before promotion from draft status, metadata and article mappings should be reconfirmed against BOE/Umm Al-Qura.
 
 ### بيانات أساسية مدعومة بالمصدر
 
 - تستند البيانات الأساسية للنظام إلى سجل النظام في موقع هيئة الخبراء المرفق في هذا الملف: اسم النظام، المرسوم الملكي رقم (م/126)، تاريخ الإصدار 07/11/1440هـ، التاريخ الميلادي 10/07/2019م، وتاريخ النشر 21/11/1440هـ.
-- لا تدّعي هذه المسودة التحقق من إحالات المواد مادةً مادة. تبقى إحالات المواد TO VERIFY لأن النص العربي الرسمي للمواد لم يُراجع مادةً مادة في هذه الجولة.
+- لا تدّعي هذه المسودة التحقق من إحالات المواد مادةً مادة. عمود "إحالة مقترحة" هو تذكر المساهم؛ أما عمود "المادة المتحقَّق منها" فمحجوز للمراجع.
 - قبل ترقية الملف من حالة المسودة، ينبغي إعادة التحقق من البيانات والإحالات من هيئة الخبراء/أم القرى.
 
-### Remaining items to verify against BOE (consolidated)
+### Items pending human review (consolidated) / العناصر قيد التدقيق البشري (مجمّعة)
 
-The main article-mapping table contains nine pending article-mapping topics. Additional TO VERIFY labels are category-level reminders and do not represent separate article claims.
+The main article-mapping table contains nine pending article-mapping topics, each populated with an indicative mapping for the reviewer to confirm or correct. The category-level table below provides additional reminders and does not represent separate article claims.
 
-يتضمن جدول إحالات المواد الرئيس تسعة موضوعات معلّقة للتحقق. أما إشارات TO VERIFY الإضافية فهي تذكيرات على مستوى التصنيف ولا تمثل ادعاءات مستقلة بأرقام مواد.
+يتضمن جدول إحالات المواد الرئيس تسعة موضوعات معلّقة للتحقق، وقد عُبّئ كل صف بإحالة مقترحة لكي يؤكدها المراجع أو يصححها. ويوفر الجدول التصنيفي أدناه تذكيرات إضافية ولا يمثل ادعاءات مستقلة بأرقام مواد.
 
 The nine topics in the table are: Definitions; Scope; Provider/practitioner disclosures; E-commerce contract data; Electronic advertising; Personal-data provision inside the Law; Consumer cancellation/return right; Penalties; Implementing regulation cross-reference.
 
 ### Category-level verification status
 
-| Category | Verified? |
+| Category | Status |
 |---|---|
 | Metadata block (Royal Decree, dates, decision, publication, status) / كتلة البيانات الأساسية (المرسوم، التواريخ، القرار، النشر، الحالة) | Source-backed; reconfirm before final/non-draft status — مدعومة بالمصدر؛ يُعاد التحقق قبل اعتماد نسخة نهائية/غير مسودة |
-| Penalty provisions / أحكام العقوبات | TO VERIFY |
-| Refund / return provisions / أحكام الاسترجاع والاسترداد | TO VERIFY |
-| Advertising provisions / أحكام الإعلان | TO VERIFY |
-| Data-related provisions inside this Law / الأحكام المتعلقة بالبيانات داخل هذا النظام | TO VERIFY (PDPL is a separate regime) |
+| Penalty provisions / أحكام العقوبات | PENDING HUMAN REVIEW / قيد التدقيق |
+| Refund / return provisions / أحكام الاسترجاع والاسترداد | PENDING HUMAN REVIEW / قيد التدقيق |
+| Advertising provisions / أحكام الإعلان | PENDING HUMAN REVIEW / قيد التدقيق |
+| Data-related provisions inside this Law / الأحكام المتعلقة بالبيانات داخل هذا النظام | PENDING HUMAN REVIEW / قيد التدقيق (PDPL is a separate regime / نظام حماية البيانات الشخصية إطار مستقل) |
 
 ---
 
@@ -315,7 +312,7 @@ Each example shows a **bad answer**, **why it is wrong**, and a **better, non-ad
 ### Example 4 — "Refund and return rules are the same as on Amazon/eBay."
 
 - **Bad answer:** "Refund and return rules are the same globally; copy them from a major international marketplace."
-- **Why it is wrong:** Refund/return rules in Saudi Arabia must be checked against the **official Arabic text** of the E-Commerce Law and its implementing regulation (and any related consumer-protection rule). This summary does **not** confirm refund/return article numbers — they are marked TO VERIFY.
+- **Why it is wrong:** Refund/return rules in Saudi Arabia must be checked against the **official Arabic text** of the E-Commerce Law and its implementing regulation (and any related consumer-protection rule). This summary does **not** confirm refund/return article numbers — they remain pending human review.
 - **Better answer:** "Refund and return language for a Saudi-facing store should be reviewed against the official Arabic text of the E-Commerce Law and its implementing regulation, rather than copied from foreign marketplaces. This educational summary does not confirm specific article numbers for refund/return obligations."
 
 ### Example 5 — "Collecting customer phone numbers is only an e-commerce issue, not a privacy issue."
