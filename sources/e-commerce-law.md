@@ -67,6 +67,11 @@ The Law concerns **e-commerce activities** and the related obligations of provid
 **Applicability check / فحص قابلية التطبيق:**
 Applicability should be checked based on the **activity** carried out, the **parties** involved, the **platform model**, the **consumer-facing terms**, the **payment flow**, **data handling**, and any **applicable special regulations**.
 
+**Implementing regulation / اللائحة التنفيذية:**
+The implementing regulation should be reviewed alongside the Law before making workflow or compliance conclusions.
+
+ينبغي مراجعة اللائحة التنفيذية مع النظام قبل بناء أي استنتاجات تتعلق بالامتثال أو سير العمل.
+
 ---
 
 ## Key concepts / المفاهيم الأساسية
@@ -136,9 +141,11 @@ Mention carefully and only at a general educational level:
 
 ## Important articles / المواد المهمة
 
-> Only article mappings that have been checked against the **official Arabic text on BOE** are marked *Verified from BOE*. Any row still pending direct verification against the BOE page is marked *TO VERIFY*. **No article numbers are invented.**
+> **This section is a verification scaffold, not an article-level reference yet.**
 >
-> As of this revision pass, BOE was not reachable from the editing environment, so **no article number is asserted as verified yet**. Article numbers will be filled in as they are confirmed against the official Arabic text.
+> **هذا القسم هيكل تحقق أولي، وليس مرجعًا نهائيًا لأرقام المواد في هذه المرحلة.**
+>
+> Rows will be marked *Verified from BOE* only after direct verification against the official Arabic text. As of this draft, all article mappings remain *TO VERIFY*. **No article numbers are invented.**
 
 | Topic / الموضوع | Article / range — المادة | Arabic note / ملاحظة | English note | Verification status |
 |------|------|------|------|------|
@@ -200,10 +207,10 @@ Practical risk areas to keep in mind for digital commerce workflows:
 
 ### Official Saudi Sources / المصادر السعودية الرسمية
 
-- **Bureau of Experts at the Council of Ministers / هيئة الخبراء بمجلس الوزراء** — platform that publishes the official Arabic text of the Law:
+- **Bureau of Experts at the Council of Ministers / هيئة الخبراء بمجلس الوزراء** — official online reference for the Arabic text of the Law:
   - Law page: https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/360de590-0286-4fa5-a243-aa9100c31979/1
   - Portal: https://laws.boe.gov.sa
-- **Umm Al-Qura — Official Gazette / جريدة أم القرى** — official publication: https://uqn.gov.sa
+- **Umm Al-Qura — Official Gazette / جريدة أم القرى** — official publication source: https://uqn.gov.sa
 
 ### Supporting References / المراجع الداعمة
 
@@ -252,7 +259,7 @@ The metadata block in *Overview* reflects the publicly stated record (Royal Decr
 
 ### Remaining items to verify against BOE (consolidated)
 
-All nine pending mappings are listed once in the *Important articles* table above (Definitions; Scope; Provider/practitioner disclosures; E-commerce contract data; Electronic advertising; Personal-data provision inside the Law; Consumer cancellation/return right; Penalties; Implementing regulation cross-reference). They are intentionally not repeated here to keep the document readable.
+The main article-mapping table contains nine pending mapping topics. Additional category-level TO VERIFY labels appear below for clarity. The nine topics in the table are: Definitions; Scope; Provider/practitioner disclosures; E-commerce contract data; Electronic advertising; Personal-data provision inside the Law; Consumer cancellation/return right; Penalties; Implementing regulation cross-reference.
 
 ### Category-level verification status
 
@@ -274,7 +281,7 @@ Each example shows a **bad answer**, **why it is wrong**, and a **better, non-ad
 
 - **Bad answer:** "Saudi Arabia has no specific e-commerce regulation, so general commercial principles apply."
 - **Why it is wrong:** Saudi Arabia has a dedicated **E-Commerce Law (نظام التجارة الإلكترونية)** issued by Royal Decree, with an implementing regulation. Claiming there is "no specific regulation" is factually incorrect and could lead a user to ignore mandatory obligations.
-- **Better answer:** "Saudi Arabia has a dedicated E-Commerce Law (نظام التجارة الإلكترونية), with an implementing regulation. The official Arabic text is published through BOE and the implementing regulation is available through the Ministry of Commerce. Other laws — such as PDPL, the Civil Transactions Law, and the Electronic Transactions Law — may also apply depending on the activity. Specific article-level obligations should be reviewed against the official Arabic text with a qualified Saudi lawyer."
+- **Better answer:** "Saudi Arabia has a dedicated E-Commerce Law (نظام التجارة الإلكترونية), with an implementing regulation. The official Arabic text of the Law is published in Umm Al-Qura and is available online through the Bureau of Experts as the official online reference; the implementing regulation is available through the Ministry of Commerce. Other laws — such as PDPL, the Civil Transactions Law, and the Electronic Transactions Law — may also apply depending on the activity. Specific article-level obligations should be reviewed against the official Arabic text with a qualified Saudi lawyer."
 
 ### Example 2 — "Our marketplace already uses U.S./EU terms, so we are fine in Saudi Arabia."
 
@@ -285,7 +292,7 @@ Each example shows a **bad answer**, **why it is wrong**, and a **better, non-ad
 ### Example 3 — "We don't need to show our identity on the storefront."
 
 - **Bad answer:** "It's fine to operate an online store without disclosing the merchant identity or contact information."
-- **Why it is wrong:** Provider/merchant disclosures are a core risk area in e-commerce regulation, and omitting them generally creates legal risk. Even before confirming the exact article, this is a known high-risk area flagged in this reference.
+- **Why it is wrong:** Provider/merchant disclosures are a core compliance area commonly associated with e-commerce regulation and should be verified against the official text. Omitting them generally creates legal risk.
 - **Better answer:** "Provider/merchant identity and contact information are recognized risk areas. Storefronts and platforms should plan to disclose provider identity and contact information, and the specific required fields should be confirmed against the official Arabic text of the E-Commerce Law and its implementing regulation."
 
 ### Example 4 — "Refund and return rules are the same as on Amazon/eBay."
@@ -297,7 +304,7 @@ Each example shows a **bad answer**, **why it is wrong**, and a **better, non-ad
 ### Example 5 — "Collecting customer phone numbers is only an e-commerce issue, not a privacy issue."
 
 - **Bad answer:** "Customer phone numbers and addresses are just e-commerce data; PDPL doesn't apply."
-- **Why it is wrong:** Names, phone numbers, addresses, payment references, and order history are **personal data** under PDPL. The E-Commerce Law does not displace PDPL.
+- **Why it is wrong:** Names, phone numbers, addresses, and data that identifies or can identify a customer — including order history or payment references where linked to an identifiable person — may constitute personal data under PDPL. The E-Commerce Law does not displace PDPL.
 - **Better answer:** "Customer phone numbers and addresses are personal data. PDPL applies in parallel with the E-Commerce Law and must be analyzed under its own framework — including lawful basis, notice/transparency, retention, and cross-border transfer considerations."
 
 ### Example 6 — "Selling through social-media DMs is outside any e-commerce rules."
