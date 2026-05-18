@@ -3,9 +3,9 @@
 > **DRAFT — Educational / Reference File**
 > **مسودة — ملف تعليمي / مرجعي**
 >
-> This file is a draft. It is intended for educational and structural reference only. Article-level mappings are **not yet verified** against the official Arabic text and are marked accordingly. Do not rely on this file for any compliance, contracting, or litigation decision.
+> This file is a draft. It is intended for educational and structural reference only. Article-level mappings are **not yet verified** against the official Arabic text and are marked accordingly. Do not rely on this file alone for any compliance, contracting, or litigation decision.
 >
-> هذا الملف مسودة. الغرض منه التعليم وتنظيم العمل المرجعي فقط. لم يتم التحقق بعد من إحالات المواد مقابل النص العربي الرسمي، وقد تم وسمها وفقًا لذلك. لا يجوز الاعتماد على هذا الملف لأي قرار يتعلق بالامتثال أو التعاقد أو التقاضي.
+> هذا الملف مسودة. الغرض منه التعليم وتنظيم العمل المرجعي فقط. لم يتم التحقق بعد من إحالات المواد مقابل النص العربي الرسمي، وقد تم وسمها وفقًا لذلك. لا ينبغي الاعتماد على هذا الملف وحده لاتخاذ أي قرار يتعلق بالامتثال أو التعاقد أو التقاضي.
 
 ---
 
@@ -17,8 +17,7 @@
 - **Hijri date of the Royal Decree / تاريخ المرسوم الهجري:** 07/11/1440هـ
 - **Gregorian date of the Royal Decree / التاريخ الميلادي:** 10/07/2019م
 - **Council of Ministers Decision / قرار مجلس الوزراء:** No. 628 dated 06/11/1440H (قرار رقم 628 وتاريخ 06/11/1440هـ)
-- **Publication in Umm Al-Qura / النشر في أم القرى:** 21/11/1440H corresponding to 24/07/2019
-- **Umm Al-Qura issue number / رقم عدد أم القرى:** TO VERIFY from uqn.gov.sa
+- **Publication in Umm Al-Qura / النشر في أم القرى:** 21/11/1440H corresponding to 24/07/2019 — source-backed; issue number TO VERIFY from uqn.gov.sa
 - **Status / الحالة:** In force / ساري
 - **Official online text reference (Bureau of Experts) / المرجع النصي الرسمي عبر الإنترنت (هيئة الخبراء بمجلس الوزراء):** https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/360de590-0286-4fa5-a243-aa9100c31979/1
 - **Document status / حالة هذا الملف:** Draft educational / reference summary — مسودة ملخص تعليمي / مرجعي
@@ -155,9 +154,9 @@ Mention carefully and only at a general educational level:
 
 ## Important article mapping scaffold / هيكل أولي لإحالات المواد المهمة
 
-> **This section is a verification scaffold, not an article-level reference yet.**
+> **This section is a mapping scaffold, not an article-level reference yet. Article numbers should be added only after direct review of the official Arabic text.**
 >
-> **هذا القسم هيكل تحقق أولي، وليس مرجعًا نهائيًا لأرقام المواد في هذه المرحلة.**
+> **هذا القسم هيكل أولي للإحالات، وليس مرجعًا نهائيًا لأرقام المواد في هذه المرحلة. لا تُضاف أرقام المواد إلا بعد مراجعة مباشرة للنص العربي الرسمي.**
 >
 > Rows will be marked *Verified from BOE* only after direct verification against the official Arabic text. As of this draft, all article mappings remain *TO VERIFY*. **No article numbers are invented.**
 
@@ -181,19 +180,16 @@ These are **currently mapped topics for review**, **not** verified article refer
 
 Practical risk areas to keep in mind for digital commerce workflows:
 
-- Launching an online store **without clear provider identity or contact information**.
-- **Incomplete or unclear** terms and conditions.
-- **Misleading product descriptions or promotional claims**.
-- **Unclear pricing, delivery, refund, or return terms**.
-- Treating online checkout as **only a technical flow** and ignoring legal consent/disclosure requirements.
-- **Copying terms from non-Saudi platforms** without checking Saudi requirements.
-- **Ignoring PDPL** overlap when collecting customer data.
-- **Ignoring the Civil Transactions Law** for contracts and obligations.
-- **Ignoring the Electronic Transactions Law** for electronic records, signatures, and evidence where relevant.
-- **Confusing the E-Commerce Law with the Electronic Transactions Law.** The E-Commerce Law focuses on e-commerce relationships and provider obligations, while the Electronic Transactions Law deals more generally with electronic records, signatures, and electronic transactions. They are distinct regimes that often apply together.
-- **Assuming that selling through social-media accounts is outside e-commerce requirements without checking the Law, the implementing regulation, and Ministry of Commerce guidance.**
-- Assuming **refund or cancellation rules** without verifying the official text.
-- Confusing **educational summaries** (such as this file) with legal advice.
+- Launching an online store without clear provider identity and contact information.
+- Unclear pricing, delivery, refund, or return terms.
+- Misleading advertisements or promotional claims.
+- Copying foreign platform terms without checking Saudi law.
+- Treating online checkout as only a technical flow and ignoring legal consent/disclosure requirements.
+- Assuming that social-media selling is automatically outside e-commerce requirements without checking the Law, the implementing regulation, and Ministry of Commerce guidance.
+- Ignoring the implementing regulation when designing workflows or compliance reviews.
+- Ignoring PDPL overlap when customer data is collected.
+- Confusing the E-Commerce Law with the Electronic Transactions Law — the E-Commerce Law focuses on e-commerce relationships and provider obligations, while the Electronic Transactions Law deals more generally with electronic records, signatures, and transactions; they are distinct regimes that often apply together.
+- Treating educational summaries (such as this file) as legal advice.
 
 ---
 
@@ -224,7 +220,7 @@ Practical risk areas to keep in mind for digital commerce workflows:
 - **Bureau of Experts at the Council of Ministers / هيئة الخبراء بمجلس الوزراء** — official online reference for the Arabic text of the Law:
   - Law page: https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/360de590-0286-4fa5-a243-aa9100c31979/1
   - Portal: https://laws.boe.gov.sa
-- **Umm Al-Qura — Official Gazette / جريدة أم القرى** — official publication source (specific issue details not claimed unless directly verified from uqn.gov.sa): https://uqn.gov.sa
+- **Umm Al-Qura — Official Gazette / جريدة أم القرى** — official publication source; issue number to be verified from uqn.gov.sa if cited: https://uqn.gov.sa
 
 ### Supporting References / المراجع الداعمة
 
@@ -249,6 +245,12 @@ The Ministry of Commerce E-Commerce Center is an official government supporting 
 
 - This file is **intentionally a draft**.
 - It should **not** be promoted from draft status until unverified article mappings are resolved or are intentionally retained in a separate verification checklist.
+
+### Draft PR suitability / صلاحية المسودة للمراجعة الأولية
+
+This draft is suitable for early maintainer review because it separates source-backed metadata from unverified article mappings, avoids guessed article numbers, and identifies the legal workflow areas that require further verification.
+
+تصلح هذه المسودة للمراجعة الأولية من المشرفين لأنها تفصل بين البيانات الأساسية المدعومة بالمصدر وإحالات المواد غير المتحققة، وتتجنب تخمين أرقام المواد، وتحدد مسارات العمل القانونية التي تحتاج إلى تحقق لاحق.
 
 **English:**
 This file should not be promoted from draft status until all unverified article mappings are resolved or intentionally retained in a separate verification checklist.
@@ -320,7 +322,7 @@ Each example shows a **bad answer**, **why it is wrong**, and a **better, non-ad
 
 - **Bad answer:** "Customer phone numbers and addresses are just e-commerce data; PDPL doesn't apply."
 - **Why it is wrong:** Names, phone numbers, addresses, and data that identifies or can identify a customer — including order history or payment references where linked to an identifiable person — may constitute personal data under PDPL. The E-Commerce Law does not displace PDPL.
-- **Better answer:** "Customer phone numbers, addresses, order history, and payment references may constitute personal data where they identify or can identify a customer. PDPL may apply in parallel with the E-Commerce Law and should be analyzed under its own framework — including lawful basis, notice/transparency, retention, and cross-border transfer considerations."
+- **Better answer:** "Customer phone numbers, addresses, order history, and payment references may constitute personal data where they identify or can identify a customer. PDPL may apply in parallel with the E-Commerce Law and should be analyzed under its own framework."
 
 ### Example 6 — "Selling through social-media DMs is outside any e-commerce rules."
 
