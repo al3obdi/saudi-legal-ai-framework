@@ -18,14 +18,15 @@
 - **Gregorian date of the Royal Decree / التاريخ الميلادي:** 10/07/2019م
 - **Council of Ministers Decision / قرار مجلس الوزراء:** No. 628 dated 06/11/1440H (قرار رقم 628 وتاريخ 06/11/1440هـ)
 - **Publication in Umm Al-Qura / النشر في أم القرى:** 21/11/1440H corresponding to 24/07/2019
+- **Umm Al-Qura issue number / رقم عدد أم القرى:** TO VERIFY from uqn.gov.sa
 - **Status / الحالة:** In force / ساري
 - **Official online text reference (Bureau of Experts) / المرجع النصي الرسمي عبر الإنترنت (هيئة الخبراء بمجلس الوزراء):** https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/360de590-0286-4fa5-a243-aa9100c31979/1
 - **Document status / حالة هذا الملف:** Draft educational / reference summary — مسودة ملخص تعليمي / مرجعي
 
-> **BOE re-verification note / ملاحظة إعادة التحقق من هيئة الخبراء:**
-> The metadata above reflects the publicly stated record of this law. At the time of drafting this revision, the BOE law page was not reachable from the editing environment, so the values **have not been re-pulled live from BOE during this revision pass** and should be re-checked against the official Arabic page before this file is promoted from draft status.
+> **Metadata source note / ملاحظة بشأن مصدر البيانات:**
+> The basic metadata above is based on the BOE law record linked in this file. This draft does not claim article-level verification — article mappings remain TO VERIFY. Before promotion from draft status, metadata and article mappings should be reconfirmed against BOE / Umm Al-Qura.
 >
-> البيانات أعلاه تعكس السجل المُعلن لهذا النظام. عند إعداد هذه المراجعة لم يكن من الممكن الوصول إلى صفحة هيئة الخبراء من بيئة التحرير، لذا لم تُسحب هذه القيم مباشرةً من الموقع الرسمي خلال هذه المراجعة، ويُنصح بإعادة التحقق منها مقابل النص العربي قبل ترقية الملف من حالة المسودة.
+> تستند البيانات الأساسية أعلاه إلى سجل النظام في موقع هيئة الخبراء المرفق في هذا الملف. لا تدّعي هذه المسودة التحقق من إحالات المواد مادةً مادة — تبقى إحالات المواد TO VERIFY. قبل ترقية الملف من حالة المسودة، ينبغي إعادة التحقق من البيانات والإحالات من هيئة الخبراء/أم القرى.
 
 > **Disclaimer / إخلاء مسؤولية:**
 > This file is an educational/reference summary intended to help structure Saudi e-commerce legal workflows. It is **not legal advice** and should not be used as a substitute for reviewing the official Arabic text or consulting a qualified Saudi lawyer.
@@ -41,6 +42,12 @@
 > The implementing regulation should be reviewed alongside the Law before making workflow or compliance conclusions.
 >
 > ينبغي مراجعة اللائحة التنفيذية مع النظام قبل بناء أي استنتاجات تتعلق بالامتثال أو سير العمل.
+
+### Why this file is useful / فائدة هذا الملف
+
+This file is useful for AI/legal workflow design because e-commerce scenarios often combine consumer disclosures, advertising, contract formation, payment/delivery flows, complaint handling, and personal-data processing. It helps identify the legal sources that should be checked before giving any conclusion.
+
+تظهر فائدة هذا الملف في تصميم مسارات العمل القانونية والذكاء الاصطناعي لأن مسائل التجارة الإلكترونية غالبًا تجمع بين إفصاحات المستهلك، والإعلانات، وتكوين العقد، ومسارات الدفع والتسليم، ومعالجة الشكاوى، ومعالجة البيانات الشخصية. يساعد الملف على تحديد المصادر النظامية التي ينبغي مراجعتها قبل الوصول إلى أي نتيجة.
 
 ---
 
@@ -77,7 +84,7 @@ The implementing regulation should be reviewed alongside the Law before making w
 ## Key concepts / المفاهيم الأساسية
 
 > **Note on article references in this section:**
-> The concepts below are described at a general educational level. **No article numbers are asserted in this section.** Specific article-level mapping is consolidated in the *Important articles* table further below, where rows are marked either *Verified from BOE* or *TO VERIFY*. Always read the official Arabic text for binding wording.
+> The concepts below are described at a general educational level. **No article numbers are asserted in this section.** Specific article-level mapping is consolidated in the *Important article mapping scaffold* table further below, where rows are marked either *Verified from BOE* or *TO VERIFY*. Always read the official Arabic text for binding wording.
 
 ### 1. E-commerce service provider / merchant — مقدّم خدمة التجارة الإلكترونية / التاجر
 
@@ -129,7 +136,8 @@ Mention carefully and only at a general educational level:
 ### 7. Data and privacy overlap / التقاطع مع البيانات والخصوصية
 
 - PDPL may apply whenever personal data is collected or processed in an e-commerce workflow.
-- E-commerce workflows typically involve **names, phone numbers, addresses, payment references, and order history** — all of which are personal data under PDPL.
+- E-commerce workflows typically involve names, phone numbers, addresses, payment references, and order history. These may constitute personal data where they identify or can identify a customer. PDPL should be analyzed separately and may apply in parallel with the E-Commerce Law.
+- غالبًا ما تتضمن مسارات التجارة الإلكترونية أسماءً وأرقام هواتف وعناوين ومراجع دفع وسجلات طلبات. وقد تُعد هذه البيانات بيانات شخصية متى كانت تحدد هوية العميل أو يمكن أن تؤدي إلى تحديده. وينبغي تحليل نظام حماية البيانات الشخصية بشكل مستقل، وقد ينطبق بالتوازي مع نظام التجارة الإلكترونية.
 - The Saudi E-Commerce Law is **not** a substitute for PDPL compliance. Both should be analyzed in parallel where personal data is involved.
 
 ### 8. Enforcement and penalties / الإنفاذ والعقوبات
@@ -139,7 +147,7 @@ Mention carefully and only at a general educational level:
 
 ---
 
-## Important articles / المواد المهمة
+## Important article mapping scaffold / هيكل أولي لإحالات المواد المهمة
 
 > **This section is a verification scaffold, not an article-level reference yet.**
 >
@@ -210,11 +218,11 @@ Practical risk areas to keep in mind for digital commerce workflows:
 - **Bureau of Experts at the Council of Ministers / هيئة الخبراء بمجلس الوزراء** — official online reference for the Arabic text of the Law:
   - Law page: https://laws.boe.gov.sa/BoeLaws/Laws/LawDetails/360de590-0286-4fa5-a243-aa9100c31979/1
   - Portal: https://laws.boe.gov.sa
-- **Umm Al-Qura — Official Gazette / جريدة أم القرى** — official publication source: https://uqn.gov.sa
+- **Umm Al-Qura — Official Gazette / جريدة أم القرى** — official publication source (specific issue details not claimed unless directly verified from uqn.gov.sa): https://uqn.gov.sa
 
 ### Supporting References / المراجع الداعمة
 
-The **Ministry of Commerce / وزارة التجارة** maintains an E-Commerce Center page that aggregates **supporting** materials for practitioners and consumers:
+The **Ministry of Commerce / وزارة التجارة** maintains an E-Commerce Center that serves as an **official government supporting reference** for implementing regulation, guidance, compliance checklist, and practical workflow materials; it is **not a substitute for the official legal text**.
 
 - Page: https://mc.gov.sa/ar/ECC/Pages/default.aspx
 - Typical supporting materials linked from this page include:
@@ -224,12 +232,14 @@ The **Ministry of Commerce / وزارة التجارة** maintains an E-Commerce
   - Compliance checklist for e-stores (قائمة الامتثال للمتاجر الإلكترونية)
   - Consumer-facing guidance (including cybersecurity guidance for consumers and service providers)
 
-The Ministry of Commerce E-Commerce Center is useful for workflow design because it links practical materials such as the implementing regulation, e-store guidance, compliance checklist, and consumer-facing guidance. These materials should be treated as supporting guidance, not as a substitute for the official legal text.
+The Ministry of Commerce E-Commerce Center is an official government supporting reference for workflow design and practical guidance. It may link materials such as the implementing regulation, e-store guidance, compliance checklist, and consumer-facing guidance. These materials should be treated as supporting guidance and should not replace the official Arabic legal text published through the official legal sources.
 
-> **Important / مهم:**
-> Ministry of Commerce guidance is **supporting material only** and **is not a substitute for the official legal text**. The Ministry of Commerce is **not** the issuing authority of the Law (the Law is issued by Royal Decree). For binding legal text and article numbers, use BOE / Umm Al-Qura.
+يُعد مركز التجارة الإلكترونية في وزارة التجارة مرجعًا حكوميًا داعمًا لتصميم مسارات العمل والإرشاد العملي، وقد يضم مواد مثل اللائحة التنفيذية والدليل الإرشادي للمتاجر الإلكترونية وقائمة الامتثال وإرشادات موجهة للمستهلك. وتُعامل هذه المواد بوصفها إرشادات داعمة، ولا تُغني عن النص العربي الرسمي المنشور عبر المصادر النظامية الرسمية.
+
+> **Issuing authority / الجهة المُصدِرة:**
+> The Ministry of Commerce is not the issuing authority of the Law; the Law was issued by Royal Decree. For binding legal text and article numbers, refer to BOE / Umm Al-Qura.
 >
-> توجيهات وزارة التجارة **مواد داعمة فقط** و**لا تُغني عن النص القانوني الرسمي**. الوزارة ليست الجهة المُصدِرة للنظام (النظام صادر بمرسوم ملكي). للنص الملزم وأرقام المواد، يُرجع إلى موقع هيئة الخبراء وجريدة أم القرى.
+> الوزارة ليست الجهة المُصدِرة للنظام؛ فالنظام صادر بمرسوم ملكي. للنص الملزم وأرقام المواد، يُرجع إلى موقع هيئة الخبراء وجريدة أم القرى.
 
 Additional supporting references that may be relevant where applicable:
 
@@ -251,19 +261,17 @@ This file should not be promoted from draft status until all unverified article 
 **Arabic:**
 لا ينبغي ترقية هذا الملف من حالة المسودة حتى تُحل جميع إحالات المواد غير المتحققة أو تُترك عمدًا ضمن قائمة تحقق مستقلة.
 
-### Verified / source-backed metadata
+### Source-backed metadata
 
-- Basic law metadata is source-backed by the BOE record: law name, Royal Decree No. M/126, Hijri issue date 07/11/1440H, Gregorian issue date 10/07/2019, and publication date 21/11/1440H.
-- Article-level mappings remain TO VERIFY because the official Arabic article text was not pulled during this revision pass.
+- The basic law metadata is based on the BOE law record linked in this file: law name, Royal Decree No. M/126, Hijri issue date 07/11/1440H, Gregorian issue date 10/07/2019, and publication date 21/11/1440H.
+- This draft does not claim article-level verification. Article mappings remain TO VERIFY because the official Arabic article text was not reviewed article-by-article in this pass.
+- Before promotion from draft status, metadata and article mappings should be reconfirmed against BOE/Umm Al-Qura.
 
 ### بيانات أساسية مدعومة بالمصدر
 
-- البيانات الأساسية للنظام مدعومة بسجل هيئة الخبراء: اسم النظام، المرسوم الملكي رقم (م/126)، تاريخ الإصدار 07/11/1440هـ، التاريخ الميلادي 10/07/2019م، وتاريخ النشر 21/11/1440هـ.
-- تبقى إحالات المواد التفصيلية TO VERIFY لأن نص المواد العربي لم يُسحب خلال هذه المراجعة.
-
-### Metadata status
-
-The metadata block in *Overview* reflects the publicly stated record (Royal Decree No. M/126; Hijri 07/11/1440H; Gregorian 10/07/2019; Council of Ministers Decision No. 628 dated 06/11/1440H; publication in Umm Al-Qura 21/11/1440H corresponding to 24/07/2019; status: in force). These values were not re-pulled live from BOE during this pass and should be reconfirmed against the BOE page before promotion from draft.
+- تستند البيانات الأساسية للنظام إلى سجل النظام في موقع هيئة الخبراء المرفق في هذا الملف: اسم النظام، المرسوم الملكي رقم (م/126)، تاريخ الإصدار 07/11/1440هـ، التاريخ الميلادي 10/07/2019م، وتاريخ النشر 21/11/1440هـ.
+- لا تدّعي هذه المسودة التحقق من إحالات المواد مادةً مادة. تبقى إحالات المواد TO VERIFY لأن النص العربي الرسمي للمواد لم يُراجع مادةً مادة في هذه الجولة.
+- قبل ترقية الملف من حالة المسودة، ينبغي إعادة التحقق من البيانات والإحالات من هيئة الخبراء/أم القرى.
 
 ### Remaining items to verify against BOE (consolidated)
 
@@ -289,7 +297,7 @@ Each example shows a **bad answer**, **why it is wrong**, and a **better, non-ad
 
 - **Bad answer:** "Saudi Arabia has no specific e-commerce regulation, so general commercial principles apply."
 - **Why it is wrong:** Saudi Arabia has a dedicated **E-Commerce Law (نظام التجارة الإلكترونية)** issued by Royal Decree, with an implementing regulation. Claiming there is "no specific regulation" is factually incorrect and could lead a user to ignore mandatory obligations.
-- **Better answer:** "Saudi Arabia has a dedicated E-Commerce Law (نظام التجارة الإلكترونية), with an implementing regulation. The official Arabic text of the Law is published in Umm Al-Qura and is available online through the Bureau of Experts as the official online reference; the implementing regulation is available through the Ministry of Commerce. Other laws — such as PDPL, the Civil Transactions Law, and the Electronic Transactions Law — may also apply depending on the activity. Specific article-level obligations should be reviewed against the official Arabic text with a qualified Saudi lawyer."
+- **Better answer:** "Saudi Arabia has a dedicated E-Commerce Law and implementing regulation. The official Arabic legal text should be checked through official sources, and related regimes such as PDPL, the Civil Transactions Law, and the Electronic Transactions Law may also apply depending on the workflow."
 
 ### Example 2 — "Our marketplace already uses U.S./EU terms, so we are fine in Saudi Arabia."
 
