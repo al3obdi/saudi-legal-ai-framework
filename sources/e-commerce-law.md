@@ -47,7 +47,11 @@
 
 This file is useful for AI/legal workflow design because e-commerce scenarios often combine consumer disclosures, advertising, contract formation, payment/delivery flows, complaint handling, and personal-data processing. It helps identify the legal sources that should be checked before giving any conclusion.
 
+This file is designed for legal workflow mapping, AI evaluation, and compliance-oriented review — not for direct legal advice.
+
 تظهر فائدة هذا الملف في تصميم مسارات العمل القانونية والذكاء الاصطناعي لأن مسائل التجارة الإلكترونية غالبًا تجمع بين إفصاحات المستهلك، والإعلانات، وتكوين العقد، ومسارات الدفع والتسليم، ومعالجة الشكاوى، ومعالجة البيانات الشخصية. يساعد الملف على تحديد المصادر النظامية التي ينبغي مراجعتها قبل الوصول إلى أي نتيجة.
+
+صُمم هذا الملف لدعم رسم مسارات العمل القانونية، وتقييم مخرجات الذكاء الاصطناعي، والمراجعة الموجهة للامتثال — وليس لتقديم استشارة قانونية مباشرة.
 
 ---
 
@@ -88,7 +92,9 @@ The implementing regulation should be reviewed alongside the Law before making w
 
 ### 1. E-commerce service provider / merchant — مقدّم خدمة التجارة الإلكترونية / التاجر
 
-At a high level, the Law addresses **persons (natural or legal) who engage in e-commerce activity** directed at consumers or other parties through electronic means. Precise definitions, registration requirements, and any distinctions (for example between a "practitioner", "merchant", or "platform") must be read from the official Arabic text.
+At a high level, the Law addresses persons or entities engaging in e-commerce activity through electronic means, especially where the activity falls within consumer-facing or platform-based e-commerce workflows. Precise definitions and scope must be read from the official Arabic text.
+
+على مستوى عام، يتناول النظام الأشخاص أو الكيانات التي تمارس نشاط التجارة الإلكترونية عبر الوسائل الإلكترونية، وبخاصة عندما يدخل النشاط ضمن مسارات التجارة الإلكترونية الموجهة للمستهلك أو القائمة على المنصات. وتُقرأ التعريفات والنطاق بدقة من النص العربي الرسمي.
 
 ### 2. Online store / electronic platform — المتجر الإلكتروني / المنصة الإلكترونية
 
@@ -222,29 +228,18 @@ Practical risk areas to keep in mind for digital commerce workflows:
 
 ### Supporting References / المراجع الداعمة
 
-The **Ministry of Commerce / وزارة التجارة** maintains an E-Commerce Center that serves as an **official government supporting reference** for implementing regulation, guidance, compliance checklist, and practical workflow materials; it is **not a substitute for the official legal text**.
+The Ministry of Commerce E-Commerce Center is an official government supporting reference for practical e-commerce workflows. It links materials such as the implementing regulation, e-store guidance, compliance checklist, and consumer-facing guidance. These materials are useful for workflow design and compliance review, but they do not replace the official Arabic legal text available through BOE / Umm Al-Qura.
 
-- Page: https://mc.gov.sa/ar/ECC/Pages/default.aspx
-- Typical supporting materials linked from this page include:
-  - The text of the E-Commerce Law (نظام التجارة الإلكترونية)
-  - The implementing regulation (اللائحة التنفيذية لنظام التجارة الإلكترونية)
-  - E-store guidance (الدليل الإسترشادي للمتاجر الإلكترونية)
-  - Compliance checklist for e-stores (قائمة الامتثال للمتاجر الإلكترونية)
-  - Consumer-facing guidance (including cybersecurity guidance for consumers and service providers)
+يُعد مركز التجارة الإلكترونية في وزارة التجارة مرجعًا حكوميًا داعمًا لمسارات العمل العملية في التجارة الإلكترونية. ويعرض مواد مثل اللائحة التنفيذية، والدليل الإرشادي للمتاجر الإلكترونية، وقائمة الامتثال، وإرشادات موجهة للمستهلك. تفيد هذه المواد في تصميم مسارات العمل ومراجعة الامتثال، لكنها لا تُغني عن النص العربي الرسمي المتاح عبر هيئة الخبراء / أم القرى.
 
-The Ministry of Commerce E-Commerce Center is an official government supporting reference for workflow design and practical guidance. It may link materials such as the implementing regulation, e-store guidance, compliance checklist, and consumer-facing guidance. These materials should be treated as supporting guidance and should not replace the official Arabic legal text published through the official legal sources.
-
-يُعد مركز التجارة الإلكترونية في وزارة التجارة مرجعًا حكوميًا داعمًا لتصميم مسارات العمل والإرشاد العملي، وقد يضم مواد مثل اللائحة التنفيذية والدليل الإرشادي للمتاجر الإلكترونية وقائمة الامتثال وإرشادات موجهة للمستهلك. وتُعامل هذه المواد بوصفها إرشادات داعمة، ولا تُغني عن النص العربي الرسمي المنشور عبر المصادر النظامية الرسمية.
+- Ministry of Commerce E-Commerce Center: https://mc.gov.sa/ar/ECC/Pages/default.aspx
+- **Implementing regulation / اللائحة التنفيذية** — should be reviewed alongside the Law before making workflow or compliance conclusions.
+- **PDPL supporting sources** when discussing data-protection overlap: **SDAIA / هيئة سدايا** and the Saudi PDPL portal.
 
 > **Issuing authority / الجهة المُصدِرة:**
 > The Ministry of Commerce is not the issuing authority of the Law; the Law was issued by Royal Decree. For binding legal text and article numbers, refer to BOE / Umm Al-Qura.
 >
 > الوزارة ليست الجهة المُصدِرة للنظام؛ فالنظام صادر بمرسوم ملكي. للنص الملزم وأرقام المواد، يُرجع إلى موقع هيئة الخبراء وجريدة أم القرى.
-
-Additional supporting references that may be relevant where applicable:
-
-- **PDPL official sources** when discussing data-protection overlap:
-  - **SDAIA / هيئة سدايا** and the Saudi PDPL portal.
 
 > Do **not** use blogs, law-firm articles, news summaries, or other unofficial sources as **legal authority** for article numbers or substantive obligations.
 
@@ -275,13 +270,17 @@ This file should not be promoted from draft status until all unverified article 
 
 ### Remaining items to verify against BOE (consolidated)
 
-The main article-mapping table contains nine pending mapping topics. Additional category-level TO VERIFY labels appear below for clarity. The nine topics in the table are: Definitions; Scope; Provider/practitioner disclosures; E-commerce contract data; Electronic advertising; Personal-data provision inside the Law; Consumer cancellation/return right; Penalties; Implementing regulation cross-reference.
+The main article-mapping table contains nine pending article-mapping topics. Additional TO VERIFY labels are category-level reminders and do not represent separate article claims.
+
+يتضمن جدول إحالات المواد الرئيس تسعة موضوعات معلّقة للتحقق. أما إشارات TO VERIFY الإضافية فهي تذكيرات على مستوى التصنيف ولا تمثل ادعاءات مستقلة بأرقام مواد.
+
+The nine topics in the table are: Definitions; Scope; Provider/practitioner disclosures; E-commerce contract data; Electronic advertising; Personal-data provision inside the Law; Consumer cancellation/return right; Penalties; Implementing regulation cross-reference.
 
 ### Category-level verification status
 
 | Category | Verified? |
 |---|---|
-| Metadata block (Royal Decree, dates, decision, publication, status) | Pending re-verification against BOE in next pass |
+| Metadata block (Royal Decree, dates, decision, publication, status) / كتلة البيانات الأساسية (المرسوم، التواريخ، القرار، النشر، الحالة) | Source-backed; reconfirm before final/non-draft status — مدعومة بالمصدر؛ يُعاد التحقق قبل اعتماد نسخة نهائية/غير مسودة |
 | Penalty provisions / أحكام العقوبات | TO VERIFY |
 | Refund / return provisions / أحكام الاسترجاع والاسترداد | TO VERIFY |
 | Advertising provisions / أحكام الإعلان | TO VERIFY |
@@ -331,6 +330,6 @@ Each example shows a **bad answer**, **why it is wrong**, and a **better, non-ad
 
 ---
 
-> **Warning:** This file is an educational/reference draft only. It does not constitute legal advice. The official Arabic text and applicable regulations should be reviewed before making compliance, contracting, or litigation decisions.
+> **Warning:** This file is an educational/reference draft only. It is not legal advice. Review the official Arabic text and applicable regulations before making compliance, contracting, or litigation decisions.
 >
-> **تحذير:** هذا الملف مسودة تعليمية/مرجعية فقط، ولا يُعدّ استشارة قانونية. يجب مراجعة النص العربي الرسمي واللوائح ذات الصلة قبل اتخاذ أي قرار يتعلق بالامتثال أو التعاقد أو التقاضي.
+> **تحذير:** هذا الملف مسودة تعليمية/مرجعية فقط، ولا يُعد استشارة قانونية. يجب مراجعة النص العربي الرسمي واللوائح ذات الصلة قبل اتخاذ أي قرار يتعلق بالامتثال أو التعاقد أو التقاضي.
